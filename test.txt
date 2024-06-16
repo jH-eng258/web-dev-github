@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-This is another commit!
-=======
 This is again a commit commit!
->>>>>>> feature
 And we go with commit number 2
